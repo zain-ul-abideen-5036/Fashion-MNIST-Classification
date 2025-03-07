@@ -40,12 +40,12 @@ model = Sequential([
 ---
 
 ## Results
-# Training Progress
+### Training Progress
 ![image](https://github.com/user-attachments/assets/39d89e5f-8db9-4a26-9d67-2d3a3a90398a)
 
 *Training vs validation accuracy/loss over epochs.*
 
-# Sample Predictions
+### Sample Predictions
 ![image](https://github.com/user-attachments/assets/f710238b-5554-4050-b4aa-c1feda05005f)
 
 *Green = correct prediction, Red = incorrect prediction.*
