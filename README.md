@@ -49,6 +49,7 @@ model = Sequential([
 ![image](https://github.com/user-attachments/assets/f710238b-5554-4050-b4aa-c1feda05005f)
 
 *Green = correct prediction, Red = incorrect prediction.*
+
 **Final Test Accuracy:** 87.3%
 ---
 
@@ -88,4 +89,3 @@ jupyter notebook notebooks/Fashion_MNIST.ipynb
 ## Contact
 For questions or feedback, contact: abideen5036@gmail.com
 ---
-  
