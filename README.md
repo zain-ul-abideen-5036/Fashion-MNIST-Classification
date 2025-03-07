@@ -51,6 +51,7 @@ model = Sequential([
 *Green = correct prediction, Red = incorrect prediction.*
 
 **Final Test Accuracy:** 87.3%
+
 ---
 
 ## GitHub Repository Structure
