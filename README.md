@@ -5,10 +5,12 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-brightgreen)
 
 A neural network model to classify Fashion MNIST images using TensorFlow/Keras.
+
 ---
 
 ## Overview
 This project trains a deep learning model to classify fashion items (e.g., shirts, shoes) from the Fashion MNIST dataset. The model achieves **~88% validation accuracy** and **~87% test accuracy**.
+
 ---
 
 ## Key Features
@@ -89,4 +91,5 @@ jupyter notebook notebooks/Fashion_MNIST.ipynb
 
 ## Contact
 For questions or feedback, contact: abideen5036@gmail.com
+
 ---
